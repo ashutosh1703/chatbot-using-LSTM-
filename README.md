@@ -1,1 +1,1 @@
-# chatbot-using-LSTM-
+# chatbot-using-LSTM-algorithm
